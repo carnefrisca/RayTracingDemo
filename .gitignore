@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/inOneWeekend
+/packages/MonoGame.Framework.Content.Pipeline.3.8.1.303
+/x64/Debug
